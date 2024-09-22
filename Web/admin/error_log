@@ -1,0 +1,12 @@
+[01-Apr-2024 19:22:23 UTC] PHP Warning:  Undefined array key "uname" in /home/sonlines/bookinghub.codemindsolutions.com/admin/theam/mobile/head.php on line 48
+[01-Apr-2024 19:22:23 UTC] PHP Warning:  Undefined array key "uname" in /home/sonlines/bookinghub.codemindsolutions.com/admin/theam/pc/head.php on line 50
+[01-Apr-2024 19:22:23 UTC] PHP Warning:  Undefined variable $UID in /home/sonlines/bookinghub.codemindsolutions.com/admin/dash/se1.php on line 48
+[01-Apr-2024 19:22:23 UTC] PHP Warning:  Undefined variable $UID in /home/sonlines/bookinghub.codemindsolutions.com/admin/dash/se3.php on line 11
+[01-Apr-2024 19:22:23 UTC] PHP Warning:  Undefined variable $UID in /home/sonlines/bookinghub.codemindsolutions.com/admin/dash/se3.php on line 33
+[01-Apr-2024 19:22:23 UTC] PHP Warning:  Undefined variable $UID in /home/sonlines/bookinghub.codemindsolutions.com/admin/dash/se3.php on line 52
+[01-Apr-2024 19:26:02 UTC] PHP Warning:  Undefined array key "uname" in /home/sonlines/bookinghub.codemindsolutions.com/admin/theam/mobile/head.php on line 48
+[01-Apr-2024 19:26:02 UTC] PHP Warning:  Undefined array key "uname" in /home/sonlines/bookinghub.codemindsolutions.com/admin/theam/pc/head.php on line 50
+[01-Apr-2024 19:26:02 UTC] PHP Warning:  Undefined variable $UID in /home/sonlines/bookinghub.codemindsolutions.com/admin/dash/se1.php on line 48
+[01-Apr-2024 19:26:02 UTC] PHP Warning:  Undefined variable $UID in /home/sonlines/bookinghub.codemindsolutions.com/admin/dash/se3.php on line 11
+[01-Apr-2024 19:26:02 UTC] PHP Warning:  Undefined variable $UID in /home/sonlines/bookinghub.codemindsolutions.com/admin/dash/se3.php on line 33
+[01-Apr-2024 19:26:02 UTC] PHP Warning:  Undefined variable $UID in /home/sonlines/bookinghub.codemindsolutions.com/admin/dash/se3.php on line 52

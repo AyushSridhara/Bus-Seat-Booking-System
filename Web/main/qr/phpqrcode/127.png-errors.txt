@@ -1,0 +1,18 @@
+2024-04-02 10:45:44: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/home/sonlines/bookinghub.codemindsolutions.com/main/qr/phpqrcode/qrsplit.php</b> on line <b>62</b><br />
