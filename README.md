@@ -38,12 +38,4 @@ If you have any questions, feel free to reach out:
 
 Made with ❤️ by Ayush
 
-"# Bus_Seat_Booking_System" 
-"# Bus-Seat-Booking-System" 
-"# Bus-Seat-Booking-System" 
-"# Bus-Seat-Booking-System" 
-"# Bus-Seat-Booking-System" 
-"# Pharmacy_Management_Systemsss" 
-"# Bus-Seat-Booking-System" 
-"# Bus-Seat-Booking-System" 
-"# Bus-Seat-Booking-System" 
+
